@@ -1,0 +1,1 @@
+In this I practiced about topics: Class , function, inheritance, lambda.
